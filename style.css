@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#f4f4f4;
+}
+
+.container{
+    display:flex;
+    height:100vh;
+}
+
+.sidebar{
+    width:250px;
+    background:#222;
+    color:rgb(236, 145, 145);
+    padding:20px;
+}
+
+.sidebar h2{
+    margin-bottom:30px;
+}
+
+.sidebar ul{
+    list-style:none;
+    padding:0;
+}
+
+.sidebar li{
+    padding:12px 0;
+    cursor:pointer;
+}
+
+.sidebar li:hover{
+    color:rgb(9, 10, 10);
+}
+
+.main-content{
+    flex:1;
+    padding:30px;
+}
+
+.card{
+    background:rgb(88, 241, 126);
+    padding:20px;
+    margin-top:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+button{
+    padding:10px 15px;
+    border:none;
+    background:black;
+    color:rgb(161, 236, 126);
+    cursor:pointer;
+    border-radius:5px;
+}
+
+button:hover{
+    opacity:0.8;
+}
+
+.dark-mode{
+    background:#3b3b3b;
+    color:rgba(19, 20, 20, 0.801);
+}
