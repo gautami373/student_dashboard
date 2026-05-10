@@ -1,7 +1,7 @@
-# student_dashboard
+
 # Student Dashboard
 
-A simple and responsive Student Dashboard website created using HTML, CSS, and JavaScript.
+A simple and Student Dashboard website created using HTML, CSS, and JavaScript.
 
 ## Features
 - Sidebar navigation
