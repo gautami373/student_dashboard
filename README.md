@@ -31,7 +31,6 @@ and this next image is on dark mode
 <img width="1366" height="658" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/fe4025cf-4d85-42e3-99ea-01b8a2ce53b5" />
 ## Future Improvements
 - Add login system
-- Add dark mode
 - Connect with database
 - Add student attendance and marks
 
